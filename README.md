@@ -29,6 +29,7 @@ HashedControlPassword 16: xxx-your's hashcode-xxx
 #### Run
 
 ```bash
+$ brew services start tor
 $ python tor.py
 ```
 
