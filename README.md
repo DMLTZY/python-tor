@@ -41,3 +41,4 @@ that's it, use it, but don't abuse it.
 3. [https://gist.github.com/jefftriplett/9748036](https://gist.github.com/jefftriplett/9748036)
 4. [https://stackoverflow.com/questions/30286293/make-requests-using-python-over-tor](https://stackoverflow.com/questions/30286293/make-requests-using-python-over-tor)
 5. [https://stackoverflow.com/questions/28252649/stem-cant-get-new-ip-with-python-via-tor](https://stackoverflow.com/questions/28252649/stem-cant-get-new-ip-with-python-via-tor)
+6. [https://www.atgfw.org/2015/01/linux-tor.html](https://www.atgfw.org/2015/01/linux-tor.html)
