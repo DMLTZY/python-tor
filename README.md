@@ -21,7 +21,7 @@ Socks5Proxy 127.0.0.1:1080 # maybe you don't need this in your country.
 ControlPort 9051 #default
 SocksPort 9050 #default
 # use tor --hash-password "123456" to generate the hashcode
-HashedControlPassword 16: xxx-your's hashcode-xxx
+HashedControlPassword 16: <your hashcode>
 ```
 
 **notice**: change password whatever you like and paste the hashcode after the last colon.
